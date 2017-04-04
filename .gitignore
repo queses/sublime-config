@@ -10,3 +10,4 @@
 !/Packages/User/
 /Packages/User/*
 !/Packages/User/*.sublime-settings
+!/Packages/User/*.sublime-keymap
