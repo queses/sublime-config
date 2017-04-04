@@ -2,7 +2,9 @@
 /Index
 /Local
 
-/Packages/User/*tmp*
-/Packages/User/*.cache*
-/Packages/.logs
-/Packages/User/*.last-run
+/Installed Packages/*
+!/Installed Packages/*package_control_loader.sublime-package
+!/Installed Packages/Package Control.sublime-package
+
+/Packages/*
+!/Packages/User/*.sublime-settings
