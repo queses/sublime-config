@@ -2,7 +2,7 @@
 /Index
 /Local
 
-/Packages/User/*cache*
 /Packages/User/*tmp*
+/Packages/User/*.cache*
 /Packages/.logs
 /Packages/User/*.last-run
