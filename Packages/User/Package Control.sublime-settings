@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"All Autocomplete",
+		"AutoFileName",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"EditorConfig",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"Less Tabs",
+		"Material Theme",
+		"Package Control",
+		"PlainTasks",
+		"ProjectManager",
+		"SideBarEnhancements",
+		"Theme - Monokai",
+		"Themr",
+		"Vintageous"
+	]
+}

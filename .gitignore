@@ -7,4 +7,6 @@
 !/Installed Packages/Package Control.sublime-package
 
 /Packages/*
+!/Packages/User/
+/Packages/User/*
 !/Packages/User/*.sublime-settings
