@@ -1,4 +1,4 @@
-# sublime-config
+# Ratt's Sublime Text Config
 Config and plugins for Sublime Text 3
 
 ```
