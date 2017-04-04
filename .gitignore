@@ -4,3 +4,5 @@
 
 /Packages/User/*cache*
 /Packages/User/*tmp*
+/Packages/.logs
+/Packages/User/*.last-run
