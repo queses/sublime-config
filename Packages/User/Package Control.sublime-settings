@@ -13,17 +13,23 @@
 		"ConvertToUTF8",
 		"DocBlockr",
 		"EditorConfig",
+		"FileBrowser",
 		"FileDiffs",
 		"Git",
 		"GitGutter",
+		"Go To Definition",
 		"Less Tabs",
+		"MarkdownEditing",
 		"Material Theme",
 		"Package Control",
 		"PlainTasks",
 		"ProjectManager",
 		"SideBarEnhancements",
+		"SublimeCodeIntel",
 		"Theme - Monokai",
 		"Themr",
-		"Vintageous"
+		"Vintageous",
+		"Vue Syntax Highlight",
+		"Zen Tabs"
 	]
 }

@@ -1,3 +1,29 @@
 [
 	{ "keys": ["ctrl+\\"], "command": "toggle_side_bar" },
+    { "keys": ["alt+d"], "command": "goto_definition" },
+    { "keys": ["ctrl+,", "d"], "command": "goto_definition" },
+    { "keys": ["ctrl+,", "D"], "command": "toggle_distraction_free" },
+    { "keys": ["ctrl+,", "F"], "command": "toggle_full_screen" },
+  	{ "keys": ["ctrl+tab"], "command": "switch_tabs"},
+  	{ "keys": ["ctrl+,", "t"], "command": "switch_tabs"},
+	{
+	  "keys": ["f1"],
+	  "command": "dired",
+	  "args": {
+	    "immediate": true,
+	    "single_pane": true,
+	    "other_group": "left",
+	    "project": true
+	  }
+	},
+	{
+	  "keys": ["ctrl+,", "f"],
+	  "command": "dired",
+	  "args": {
+	    "immediate": true,
+	    "single_pane": true,
+	    "other_group": "left",
+	    "project": true
+	  }
+	}
 ]
