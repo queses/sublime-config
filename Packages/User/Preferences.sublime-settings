@@ -7,8 +7,24 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"A File Icon",
+		"All Autocomplete",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"FileDiffs",
 		"Go To Definition",
-		"Vintage"
+		"MarkdownEditing",
+		"ProjectManager",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Monokai",
+		"Themr",
+		"Vintage",
+		"Vue Syntax Highlight",
+		"Zen Tabs"
 	],
 	"indent_guide_options":
 	[

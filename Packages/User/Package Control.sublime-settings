@@ -2,6 +2,22 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"A File Icon",
+		"All Autocomplete",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"FileDiffs",
+		"MarkdownEditing",
+		"ProjectManager",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Monokai",
+		"Themr",
+		"Vue Syntax Highlight",
+		"Zen Tabs"
 	],
 	"installed_packages":
 	[
